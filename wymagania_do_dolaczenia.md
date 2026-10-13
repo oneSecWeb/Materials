@@ -44,6 +44,7 @@ System musi zawierać przynajmniej po jednym w pełni funkcjonującym endpoincie
 - **Struktura Repozytorium (GitHub):**
   - Czysty podział na katalogi `/frontend`, `/backend` oraz plik `docker-compose.yml` w głównym katalogu.
   - Obecność pliku `README.md` z instrukcją szybkiego startu.
+  - Zrobienie Pull Requesta z gotowym kodem i przypisanie osobę z zarządu do sprawdzenia (@TymoteuszMH lub @AdrianAlbrecht)
 
 ## 4. Przygotowanie do Code Review, Obrony i Prezentacji
 
